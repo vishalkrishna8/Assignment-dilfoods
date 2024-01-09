@@ -1,0 +1,301 @@
+[
+  {
+    "id": 1,
+    "title": "Orange Food Flavour",
+    "description": "Specifications of Orange Essence Food Flavour For Cakes and Baking Food Item",
+    "price": 140,
+    "quantity": 1,
+    "stock": 26,
+    "brand": "Baking Food Items",
+    "category": "groceries",
+    "images": [
+      "https://i.dummyjson.com/data/products/23/1.jpg",
+      "https://i.dummyjson.com/data/products/23/2.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "cereals muesli fruit nuts",
+    "description": "original fauji cereal muesli 250gm box pack original fauji cereals muesli fruit nuts flakes breakfast cereal break fast faujicereals cerels cerel foji fouji",
+    "price": 460,
+    "quantity": 1,
+    "stock": 113,
+    "brand": "fauji",
+    "category": "groceries",
+    "images": [
+      "https://i.dummyjson.com/data/products/24/1.jpg",
+      "https://i.dummyjson.com/data/products/24/2.jpg"
+      
+    ]
+  },
+  {
+    "id":3,
+    "title": "Gulab Powder 50 Gram",
+    "description": "Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds",
+    "price": 270,
+    "quantity": 1,
+    "stock": 47,
+    "brand": "Dry Rose",
+    "category": "groceries",
+    "images": [
+      "https://i.dummyjson.com/data/products/25/1.png",
+      "https://i.dummyjson.com/data/products/25/2.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Freckle Cream- 15gm",
+    "description": "Fair & Clear is Pakistan's only pure Freckle cream which helpsfade Freckles, Darkspots and pigments. Mercury level is 0%, so there are no side effects.",
+    "price": 700,
+    "quantity": 1,
+    "stock": 140,
+    "brand": "Fair & Clear",
+    "category": "skincare",
+    "images": [
+      "https://i.dummyjson.com/data/products/20/1.jpg",
+      "https://i.dummyjson.com/data/products/20/2.jpg"
+      
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Plant Hanger For Home",
+    "description": "Boho Decor Plant Hanger For Home Wall Decoration Macrame Wall Hanging Shelf",
+    "price": 410,
+    "quantity": 1,
+    "stock": 131,
+    "brand": "Boho Decor",
+    "category": "home-decoration",
+    "images": [
+      "https://i.dummyjson.com/data/products/26/1.jpg",
+      "https://i.dummyjson.com/data/products/26/2.jpg"
+      
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Flying Wooden Bird",
+    "description": "Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm",
+    "price": 501,
+    "quantity": 1,
+    "stock": 17,
+    "brand": "Flying Wooden",
+    "category": "home-decoration",
+    "images": [
+      "https://i.dummyjson.com/data/products/27/1.jpg",
+      "https://i.dummyjson.com/data/products/27/2.jpg"
+      
+    ]
+  },
+  {
+    "id": 7,
+    "title": "3D Embellishment Lamp",
+    "description": "3D led lamp sticker Wall sticker 3d wall art light on/off button  cell operated (included)",
+    "price": 1200,
+    "quantity": 1,
+    "stock": 54,
+    "brand": "LED Lights",
+    "category": "home-decoration",
+    "images": [
+      "https://i.dummyjson.com/data/products/28/1.jpg",
+      "https://i.dummyjson.com/data/products/28/2.jpg"
+      
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Handcraft Chinese style",
+    "description": "Handcraft Chinese style art luxury palace hotel villa mansion home decor ceramic vase with brass fruit plate",
+    "price": 600,
+    "quantity": 1,
+    "stock": 7,
+    "brand": "luxury palace",
+    "category": "home-decoration",
+    "images": [
+      "https://i.dummyjson.com/data/products/29/1.jpg",
+      "https://i.dummyjson.com/data/products/29/2.jpg"
+      
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Key Holder",
+    "description": "Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality",
+    "price": 300,
+    "quantity": 1,
+    "stock": 54,
+    "brand": "Golden",
+    "category": "home-decoration",
+    "images": [
+      "https://i.dummyjson.com/data/products/30/1.jpg",
+      "https://i.dummyjson.com/data/products/30/2.jpg"
+      
+    ]
+  },
+  {
+    "id": 10,
+    "title": "perfume Oil",
+    "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
+    "price": 700,
+    "quantity": 1,
+    "stock": 65,
+    "brand": "Impression of Acqua Di Gio",
+    "category": "fragrances",
+    "images": [
+      "https://i.dummyjson.com/data/products/11/1.jpg",
+      "https://i.dummyjson.com/data/products/11/2.jpg"
+      
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Brown Perfume",
+    "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
+    "price": 740,
+    "quantity": 1,
+    "stock": 52,
+    "brand": "Royal_Mirage",
+    "category": "fragrances",
+    "images": [
+      "https://i.dummyjson.com/data/products/12/1.jpg",
+      "https://i.dummyjson.com/data/products/12/2.jpg"
+      
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Fog Xpressio Perfume",
+    "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
+    "price": 1300,
+    "quantity": 1,
+    "stock": 61,
+    "brand": "Fog Scent Xpressio",
+    "category": "fragrances",
+    "images": [
+      "https://i.dummyjson.com/data/products/13/1.jpg",
+      "https://i.dummyjson.com/data/products/13/2.png"
+      
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Non-Alcoholic Perfume",
+    "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
+    "price": 1200,
+    "quantity": 1,
+    "stock": 114,
+    "brand": "Al Munakh",
+    "category": "fragrances",
+    "images": [
+      "https://i.dummyjson.com/data/products/14/1.jpg",
+      "https://i.dummyjson.com/data/products/14/2.jpg"
+      
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Eau De Perfume Spray",
+    "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
+    "price": 770,
+    "quantity": 1,
+    "stock": 105,
+    "brand": "Lord - Al-Rehab",
+    "category": "fragrances",
+    "images": [
+      "https://i.dummyjson.com/data/products/15/1.jpg",
+      "https://i.dummyjson.com/data/products/15/2.jpg"
+      
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Hyaluronic Acid Serum",
+    "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
+    "price": 730,
+    "quantity": 1,
+    "stock": 110,
+    "brand": "L'Oreal Paris",
+    "category": "skincare",
+    "images": [
+      "https://i.dummyjson.com/data/products/16/1.png",
+      "https://i.dummyjson.com/data/products/16/2.webp"
+      
+    ]
+  },
+  {
+    "id": 16,
+    "title": "- Daal Masoor 500 grams",
+    "description": "Fine quality Branded Product Keep in a cool and dry place",
+    "price": 200,
+    "quantity": 1,
+    "stock": 133,
+    "brand": "Saaf & Khaas",
+    "category": "groceries",
+    "images": [
+      "https://i.dummyjson.com/data/products/21/1.png",
+      "https://i.dummyjson.com/data/products/21/2.jpg"
+      
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Tree Oil 30ml",
+    "description": "Tea tree oil contains a number of compounds, including terpinen-4-ol, that have been shown to kill certain bacteria,",
+    "price": 1200,
+    "quantity": 1,
+    "stock": 78,
+    "brand": "Hemani Tea",
+    "category": "skincare",
+    "images": [
+      "https://i.dummyjson.com/data/products/17/1.jpg",
+      "https://i.dummyjson.com/data/products/17/2.jpg"
+      
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Oil Free Moisturizer",
+    "description": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen.",
+    "price": 800,
+    "quantity": 1,
+    "stock": 88,
+    "brand": "Dermive",
+    "category": "skincare",
+    "images": [
+      "https://i.dummyjson.com/data/products/18/1.jpg",
+      "https://i.dummyjson.com/data/products/18/2.jpg"
+      
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Skin Beauty Serum.",
+    "description": "Product name: rorec collagen hyaluronic acid white face serum riceNet weight: 15 m",
+    "price": 600,
+    "quantity": 1,
+    "stock": 54,
+    "brand": "ROREC White Rice",
+    "category": "skincare",
+    "images": [
+      "https://i.dummyjson.com/data/products/19/1.jpg",
+      "https://i.dummyjson.com/data/products/19/2.jpg"
+      
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Elbow Macaroni - 400 gm",
+    "description": "Product details of Bake Parlor Big Elbow Macaroni - 400 gm",
+    "price": 140,
+    "quantity": 1,
+    "stock": 146,
+    "brand": "Bake Parlor Big",
+    "category": "groceries",
+    "images": [
+      "https://i.dummyjson.com/data/products/22/1.jpg",
+      "https://i.dummyjson.com/data/products/22/2.jpg"
+      
+    ]
+  }
+  
+]

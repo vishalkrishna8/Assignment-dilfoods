@@ -1,3 +1,4 @@
+
 # Dstore
 
 This projectt is an e-commerce website built using Next.js, React.js, and Tailwind CSS. It provides a simple and efficient platform for online shopping.
@@ -15,6 +16,7 @@ Make sure you have the following installed before setting up the project:
 
 1. Node.js (v14.x or higher)
 2. npm (Node Package Manager) or yarn
+
 
 ## Installation
 Follow these steps to set up and run the project locally on your machine:
@@ -41,6 +43,7 @@ Or if you prefer using yarn:
 yarn install
 ```
 
+
 ## Getting Started / Run locally
 
 First, run the development server:
@@ -60,6 +63,34 @@ yarn dev
 • You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
 
+## Usage
+
+ **Product Listing:**
+
+1. The home page displays products in a 4-columns.
+2. Each product card includes details such as name, image, price, and ratings.
+3. Clicking on a product card navigates to the product details page.
+
+
+**Product Details:**
+
+1. Displays detailed information about a product, including description.
+2. Includes an "Add to Cart" button to add the product directly to the cart.
+3. Also includes a "Buy now" button to navigate to the cart page.
+
+
+**Shopping Cart:**
+
+1. The cart page displays all added products with quantity and total price.
+2. Users can add/remove and delete a product from the cart.
+3. Clicking on the "Checkout" button navigates to the checkout page.
+
+**Order Checkout:**
+
+1. Users fill in their details in the form (dummy form for assignment purposes).
+2. Clicking on "Place Order" simulates placing an order.
+
+
 ## Contributing
 
 Contributions are welcome! If you want to contribute to this project, please follow these steps:
@@ -72,3 +103,5 @@ Contributions are welcome! If you want to contribute to this project, please fol
 6. Create a Pull Request.
 -----
 -----  
+
+

@@ -48,7 +48,7 @@ function Checkout() {
                   </span>
                 </div>
               ))}
-              <div className=" flex justify-between items-center border-t py-2">
+              <div className=" flex justify-between items-center border-t-2 border-slate-800 py-2">
                 <span className="font-semibold">Total Price :</span>
                 <span className="ml-2 font-semibold">
                   <span>&#8377; </span>

@@ -1,15 +1,15 @@
-// write test code here
+//example code
 
-// import '@testing-library/jest-dom';
-// import { render, screen } from '@testing-library/react';
-// import Page from '../app/page';
+ import '@testing-library/jest-dom';
+ import { render, screen } from '@testing-library/react';
+ import Page from '../app/page';
 
-// describe('Page', () => {
-//   it('renders a paragraph', () => {
-//     render(<Page />);
+ describe('Page', () => {
+   it('renders a paragraph', () => {
+     render(<Page />);
 
-//     const paragraph = screen.getByRole('paragraph', { level: 1 });
+     const paragraph = screen.getByRole('paragraph', { level: 1 });
 
-//     expect(paragraph).toBeInTheDocument();
-//   });
-// });
+     expect(paragraph).toBeInTheDocument();
+ });
+});

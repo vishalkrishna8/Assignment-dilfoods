@@ -1,5 +1,5 @@
 
-# [Dstore](https://dilfood.vercel.app/)
+# [Dstore](https://assignment-dilfoods.vercel.app/)
 
 
 This projectt is an e-commerce website built using Next.js, React.js, and Tailwind CSS. It provides a simple and efficient platform for online shopping.
@@ -26,7 +26,7 @@ Follow these steps to set up and run the project locally on your machine:
 Clone this repository to your local machine:
 
 ```bash
-git clone 'https://github.com/vishalkrishna8/task'
+git clone 'https://github.com/vishalkrishna8/Assignment-dilfoods'
 ```
 
 Navigate to the project directory:

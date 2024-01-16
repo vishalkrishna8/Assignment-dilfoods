@@ -2,7 +2,7 @@
 
 import React, { useEffect, useState } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
-// import Loader from '../../../components/icons/loader';
+import Loader from '../../../components/icons/loader';
 import { addToCart } from '../../../redux/Cartslice';
 import { useRouter } from "next/navigation";
 import data from '../../../data/data';
@@ -12,19 +12,19 @@ const ProductDetails = () => {
   const dispatch = useDispatch();
   const cart = useSelector((state) => state.cart);
 
-  // const [loading, setLoading] = useState(false);
+  const [loading, setLoading] = useState(false);
   const [product, setProduct] = useState({});
   const [isAdded, setIsAdded] = useState(false);
 
   useEffect(() => {
-    // setLoading(true);
+    setLoading(true);
     const productId = parseInt(window.location.pathname.split('/').pop());
     const foundProduct = data.find((product) => product.id === productId);
 
     if (foundProduct) {
       setProduct(foundProduct);
     }
-    // setLoading(false);
+    setLoading(false);
   }, []);
 
   useEffect(() => {
@@ -41,15 +41,15 @@ const ProductDetails = () => {
   };
 
 
-  // if (loading) {
-  //   return (
-  //     <div className="min-h-screen flex justify-center items-center">
-  //       <div className="w-20 h-20">
-  //         <Loader />
-  //       </div>
-  //     </div>
-  //   );
-  // }
+  if (loading) {
+    return (
+      <div className="min-h-screen flex justify-center items-center">
+        <div className="w-20 h-20">
+          <Loader />
+        </div>
+      </div>
+    );
+  }
 
   return (
     <>

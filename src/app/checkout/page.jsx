@@ -142,8 +142,8 @@ function Checkout() {
               </div>
 
               <div className="flex justify-center mb-4">
-                <button className="py-2 px-4 ml-4 mr-4 text-white font-semibold rounded-md bg-red-600 hover:bg-red-400 mb-2" type="submit">
-                  PAY NOW
+                <button className="py-2 px-4 ml-4 mr-4 uppercase text-white font-semibold rounded-md bg-red-600 hover:bg-red-400 mb-2" type="submit">
+                Pay now
                 </button>
               </div>
 

@@ -1,14 +1,16 @@
 
-# Dstore
+# [Dstore](https://dilfood.vercel.app/)
+
 
 This projectt is an e-commerce website built using Next.js, React.js, and Tailwind CSS. It provides a simple and efficient platform for online shopping.
 
 
 ## Features
 1. Responsive design suitable for various devices and screen sizes.
-2. Product catalog display with detailed descriptions.
-3. Cart functionality to add and remove items.
-4. Checkout process. (checkout page with a form for payment details.
+2. **Craft a unique logo using Canva for a personalized brand identity.**
+3. Product catalog display with detailed descriptions.
+4. Cart functionality to add and remove items.
+5. Checkout page with a form for payment details.
 
 
 ## Prerequisites
@@ -63,7 +65,7 @@ yarn dev
 • You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
 
-## Usage
+<!-- ## Usage
 
  **Product Listing:**
 
@@ -88,7 +90,7 @@ yarn dev
 **Order Checkout:**
 
 1. Users fill in their details in the form (dummy form for assignment purposes).
-2. Clicking on "Place Order" simulates placing an order.
+2. Clicking on "Pay now" simulates placing an order. -->
 
 
 ## Contributing

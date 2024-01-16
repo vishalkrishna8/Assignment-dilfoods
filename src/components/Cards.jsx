@@ -16,26 +16,12 @@ const Cards = ({ product }) => {
 
   return (
     <div className="relative flex w-64 flex-col overflow-hidden rounded-lg border border-gray-100 bg-white shadow-md">
-      <div className="relative mx-3 mt-3 flex h-64 overflow-hidden rounded-xl" href="#">
-      {product.images ? (
-                <img
-                  className="w-full h-full object-cover rounded-lg"
-                  src={product.images[1]}
-                  alt="Product Image"
-                />
-              ) : (
-                <img
-                  className="w-28 h-24 object-cover rounded-lg"
-                  src="/mylogo.png"
-                  alt="Product Image"
-                />
-              )}
-        
-        {/* <img
+      <div className="relative mx-3 mt-3 flex h-64 overflow-hidden rounded-xl" href="#">     
+        <img
           className="object-cover w-64"
-          src={product.images[1]}
+          src={product.images[0]}
           alt="product images"
-        /> */}
+        />
         <span className="absolute top-0 right-0 m-2 rounded-full bg-red-600 px-2 text-center text-sm font-medium text-white">
           {(((productPrice % product.price) / productPrice) * 100).toFixed(0)}% OFF
         </span>

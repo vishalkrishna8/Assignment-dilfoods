@@ -65,7 +65,7 @@ const ProductDetails = () => {
               {product.images ? (
                 <img
                   className="w-full h-full object-cover rounded-lg"
-                  src={product.images[1]}
+                  src={product.images[0]}
                   alt="Product Image"
                 />
               ) : (

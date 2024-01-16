@@ -37,7 +37,7 @@ export default function Cartpage() {
               >
                 <img
                   className="ml-4 h-24 w-28 rounded-t-lg border object-cover object-center"
-                  src={product.images[1]}
+                  src={product.images[0]}
                   alt="img"
                 />
                 <div className="font-normal py-4">

@@ -7,6 +7,7 @@ const Cards = ({ product }) => {
   const [stars, setStars] = useState(5);
 
   useEffect(() => {
+    console.log('Product Images:', product.images);
     const MRP = Math.random() * 30;
     const MRPValue = (product.price * MRP) / 100 + product.price;
     setProductPrice(MRPValue.toFixed(0));
@@ -16,11 +17,25 @@ const Cards = ({ product }) => {
   return (
     <div className="relative flex w-64 flex-col overflow-hidden rounded-lg border border-gray-100 bg-white shadow-md">
       <div className="relative mx-3 mt-3 flex h-64 overflow-hidden rounded-xl" href="#">
-        <img
+      {product.images ? (
+                <img
+                  className="w-full h-full object-cover rounded-lg"
+                  src={product.images[1]}
+                  alt="Product Image"
+                />
+              ) : (
+                <img
+                  className="w-28 h-24 object-cover rounded-lg"
+                  src="/mylogo.png"
+                  alt="Product Image"
+                />
+              )}
+        
+        {/* <img
           className="object-cover w-64"
           src={product.images[1]}
           alt="product images"
-        />
+        /> */}
         <span className="absolute top-0 right-0 m-2 rounded-full bg-red-600 px-2 text-center text-sm font-medium text-white">
           {(((productPrice % product.price) / productPrice) * 100).toFixed(0)}% OFF
         </span>

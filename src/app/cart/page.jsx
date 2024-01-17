@@ -31,7 +31,7 @@ export default function Cartpage() {
           cart.map((product) => {
             return (
               <div
-                className="w-80vw mr-4 ml-4 bg-white p-4 rounded-md shadow-md flex items-center justify-between my-4"
+                className="w-80vw mr-6 ml-6 bg-white p-4 rounded-md shadow-md flex items-center justify-between my-4"
 
                 key={product.id}
               >
